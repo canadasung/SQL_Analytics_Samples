@@ -1,3 +1,4 @@
+-- PostgreSQL
 -- Check Duplicates
 SELECT *
 FROM user_data
