@@ -1,3 +1,4 @@
+-- Google BigQuery
 -- CALCULATE CONSECUTIVE DAYS
 with base as (
   select distinct userid, login_date
